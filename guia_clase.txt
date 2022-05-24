@@ -4,3 +4,5 @@ git add
 git rm --cached
 git commit -m
 git branch
+git log
+git log --oneline
