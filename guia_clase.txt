@@ -6,3 +6,5 @@ git commit -m
 git branch
 git log
 git log --oneline
+git checkout
+ffff
